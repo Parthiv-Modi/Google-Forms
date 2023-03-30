@@ -1,0 +1,99 @@
+body{
+  background-color:#f0ebf8;
+font-family:Sans-Serif,Arial;
+font-size: 16;    }
+ .forms{
+ height: 1160;
+ width: 615;
+ margin:auto;
+   }
+.title{
+background-color: white;
+width: 615;
+height:160;
+margin: 8px;
+border-radius:7px ;
+border-top: 10px solid #6839b3;
+padding: 3px;
+padding-left:15px;
+padding-top: 25;
+}
+.first{
+  font-size: 30px;
+}
+.required {
+  color:red;
+}
+.namee,.father,.mother,.gender,.class,.school{
+  background-color: white;
+  height: 140;
+  width: 628;
+  margin: 8px;
+  margin-top:15px;
+  border-radius: 6px;
+  padding:3px ;
+}
+.gender .name {
+  padding-bottom:25px;
+ }
+ .gender .input {
+   padding-left: 40px;
+ }
+
+ 
+.name {
+  padding-top: 25px;
+  padding-bottom: 50px;
+  padding-left: 15px;
+  font-size:14;
+}
+.input {
+ padding-left:15px
+}
+.input input {
+  border:0px;
+  width:550px;
+  border-bottom:2px solid gray;
+font-size: 14;
+}
+.input select {
+ border:0px;
+ background-color:#f0ebf8;
+ width: 105px;
+ height: 30;
+}
+
+.Submit button {
+border: 0;
+background-color: #6839b3;
+width:80px;
+height:40px;
+border-radius:4px;
+color:white;
+margin-top: 10px;
+margin-bottom:10;
+font-size: 15;
+}
+.never {
+  font-size: 11;
+  color: grey;
+}
+.content{
+ font-size: 11;
+ text-align:center ;
+margin-bottom:5px;
+color: grey;
+ 
+}
+.last {
+ color:#838383;
+ text-align: center;
+ font-size: 25px;
+ margin-top: 10;
+}
+
+
+
+
+
+
